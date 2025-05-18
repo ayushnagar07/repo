@@ -27,6 +27,7 @@ Pull the latest changes from the main branch. #Commands:
 ![Screenshot 2025-05-18 230859](https://github.com/user-attachments/assets/d4de176f-d351-4e7d-a278-a047374987b9)
 
 Remove the feature.py file from your branch. #Commands:
+
 ![Screenshot 2025-05-18 230917](https://github.com/user-attachments/assets/c7a7e32e-0585-41cc-806c-6a63049b3bae)
 
 Commit the removal of the file and push the changes. #Commands:
